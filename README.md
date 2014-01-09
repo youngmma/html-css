@@ -33,7 +33,7 @@ Your code will be judged on:
 1. Is it a valid HTML 5 document (has proper doctype, html, head, and body elements)?
 2. Do elements have proper open and closing tags?
 3. Are you using the Arial font (or another font of your choosing)?
-3. Does it look like then ?
+3. Does it look like homework_goal.png?
 
 # Hints
 
